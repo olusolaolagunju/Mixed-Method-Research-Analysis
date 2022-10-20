@@ -16,5 +16,8 @@ My analysis confirmed that Africa has the lowest infection rate and vaccination 
 ### Conclusion 
 Africa's low infection rate is due to low median age, while median age and gross domestic product per population have no significant effect on the case fatality rate. Although, the individual perception in the African context, is responsible for the low vaccination rate.
 
+The R code and full pdf documents can be found here: 
+
 [R_CODES]()
+
 [MAIN DOCUMENT]()
