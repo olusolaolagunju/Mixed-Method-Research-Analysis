@@ -13,7 +13,7 @@ In this mixed method analysis, I used descriptive quantitative statistical analy
 ### Result
 My analysis confirmed that Africa has the lowest infection rate and vaccination rates. I found out that the median age significantly influences only the IFR, while the independent variables, median age, and Gdp/pop have no significant effect on CFR and the VR. Although, the median age have strong correlations with the vaccination rate. My qualitative analysis showed that inadequate Covid-19 vaccine information and the perception that the Covid-19 vaccine is meant for only elderly people and healthcare workers are the major themes influencing Africa vaccination rate and could be the reason for the low vaccination rate
 
-![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_CFR.png)
+![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_VR.png)
 
 ---
 
