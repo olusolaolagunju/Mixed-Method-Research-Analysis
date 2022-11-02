@@ -18,6 +18,6 @@ Africa's low infection rate is due to low median age, while median age and gross
 
 The R code and full pdf documents can be found here: 
 
-[R_CODES]()
+[R_CODE](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/R_code_quantitative_covid_19.R)
 
 [MAIN DOCUMENT]()
