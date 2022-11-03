@@ -1,24 +1,23 @@
 # Mixed-Method-Research-Analysis
 ## Abstract
-### Background
-There have been speculations about the reason for the high case fatality rate in Africa despite having low infection rate. Here, I attempted to identify whether other factors aside the median age affected the case fatality rate, infection rate and also the vaccination rate
 
-### Objective
-I estimated and compared the means of the Covid-19 infection rate (IFR), case fatality rate (CFR), and vaccination rate per continent (VR). Also, tested the hypothesis about Covid-19 infection rate been influenced by continent's median age. To determine the factors influencing the CFR, I determined the correlation between two independent variables, gross domestic product per population and median age and the dependent variable, case fatality rate and determined if they can be used to predict case fatality rate. Lastly, I use qualitative analysis to determine the reason for the low vaccination rate in Africa.
- 
- 
-### Methodology
-In this mixed method analysis, I used descriptive quantitative statistical analysis to obtain and compare the means of  Covid-19 IFR, CFR, and VR across all seven continents and tested their means for significant differences with a one-way Anova test. Then, I used Pearson correlation to determine the relationship between the dependent variables (IFR, CFR, and VR) and the independent variables (median age and the gross domestic product per population independent), followed by a Regression analysis. I determined the significant effect of the independent variables on the dependent variables. lastly, I used thematic analysis to extract major themes from the qualitative interview study about individual perceptions of the covid-19 vaccine in Ethiopia. 
+### Objectives:
+ This study estimated the influence of independent variables, including the median age and social-economical characteristics, on the Covid-19 infection rate (IFR), case fatality rate (CFR), and vaccination rate (VR) outcomes with an emphasis on Africa. Also, I examined the individual perception of the Covid-19 vaccine on the vaccination rate in the African context. 
 
-### Result
-My analysis confirmed that Africa has the lowest infection rate and vaccination rates. I found out that the median age significantly influences only the IFR, while the independent variables, median age, and Gdp/pop have no significant effect on CFR and the VR. Although, the median age have strong correlations with the vaccination rate. My qualitative analysis showed that inadequate Covid-19 vaccine information and the perception that the Covid-19 vaccine is meant for only elderly people and healthcare workers are the major themes influencing Africa vaccination rate and could be the reason for the low vaccination rate
+### Methodology:
+In this mixed method analysis, I used a descriptive quantitative statistical method to obtain and compare the Covid-19 average IFR, CFR, and VR across all six continents and tested each continent's means for significant differences with a one-way Anova test. Then I performed a correlation test to find the relationship between the dependent IFR, CFR, and VR variables and the independent variables, followed by a  Regression analysis to determine the significant effect of the independent variables on the dependent variables. Also, I adopted a thematic analysis to extract the essential themes from the qualitative interview study about individual perceptions of the covid-19 vaccine in Ethiopia. 
+
+### Result:
+There were significant differences among continents' CFR and VR,  and Africa had the lowest infection and vaccination rates and the second highest case fatality rate. Countries' median age and the human development index influenced the IFR and independently accounted for the most IFR variations, 51% and 57%, respectively, across all continents.The percentage of the population older than 65 and the number of covid-19 tests carried out significantly influenced the IFR,  and both accounted for the most IFR variations, 49%, and 15%, respectively, across all continents. The percentage of countries' Covid-19 positive rates and human development index were the only independent variables that could predict the CFR and accounted for only 14% of the CFR variations. To my knowledge, no article has published these variables as possible predictors of CFR. However, countries' median age, human development index, and life expectancy index predicted more than 50% variations in the VR. Inadequate Covid-19 vaccine information and the people's perception that the Covid-19 vaccine is meant for only older adults and healthcare workers were the major themes I obtained from the qualitative interview survey and could be the reason for the low vaccination rate in Africa.  
+
 
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_VR.png)
 
 ---
 
 ### Conclusion 
-Africa's low infection rate is due to low median age, while median age and gross domestic product per population have no significant effect on the case fatality rate. Although, the individual perception in the African context, is responsible for the low vaccination rate.
+The country's human development index was the only independent variable responsible for the highest variations in the infection rate, case fatality rate and vaccination rate. Africa has the lowest human development index, thus explaining the reason for the low infection and vaccination rate and high case fatality rate. 
+
 
 The R code and full pdf documents can be found here: 
 
