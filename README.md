@@ -23,4 +23,16 @@ The R code and full pdf documents can be found here:
 
 [R_CODE](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/R_code_quantitative_covid_19.R)
 
+[Correlation plot](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/Correlation_plot.png)
+
+[Regression model](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/Regression_Model.png)
+
+[Infection rate plot](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_IFR.png)
+
+[Case fatality rate plot ](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_CFR.png)
+
+[Vaccination rate plot](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_VR.png)
+
+[Thematic analysis plot](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/covid_thematic_2_0.2.png)
+
 [MAIN DOCUMENT]()
