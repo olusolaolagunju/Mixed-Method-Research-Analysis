@@ -1,4 +1,4 @@
-# Mixed-Method-Research-Analysis
+# A predictive model between Covid-19 infection rate, case fatality rate, vaccination rate and selected independent variables: A mixed method research"
 ## Abstract
 
 ### Objectives:
