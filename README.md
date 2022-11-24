@@ -19,7 +19,7 @@ The country's human development index was the only independent variable responsi
 
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/Correlation_plot.png)
 
-Table 2: Regression Analysis: Infection rate, Case fatality rate and Vaacination rate Descriptive models \n Human devlopement index significantly contributs to the Infection rate, Case fatality rate and Vaccination rate
+Table 2: Regression Analysis: Infection rate, Case fatality rate and Vaacination rate Descriptive models.                                                                         Human devlopement index significantly contributs to the Infection rate, Case fatality rate and Vaccination rate
 
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/Regression_Model.png)
 
