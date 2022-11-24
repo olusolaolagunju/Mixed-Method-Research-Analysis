@@ -23,6 +23,10 @@ Table 2: Regression Analysis: Infection rate, Case fatality rate and Vaacination
 
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/Regression_Model.png)
 
+![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_IFR.png)
+
+![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_CFR.png)
+
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/boxplot_VR.png)
 
 
