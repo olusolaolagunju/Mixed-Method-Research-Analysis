@@ -47,6 +47,8 @@ Table 2: Regression Analysis: Infection rate, Case fatality rate and Vaacination
 
 ---
 
+Figure 4: Thematic Analysis Framework (text analysis)
+
 ![image](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/images/covid_thematic_2_0.2.png)
 
 
