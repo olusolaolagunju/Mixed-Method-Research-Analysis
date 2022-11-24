@@ -16,7 +16,7 @@ There were significant differences among continents' IFR, CFR and VR, and Africa
 The country's human development index was the only independent variable responsible for the highest variations in the infection rate, case fatality rate and vaccination rate. Africa has the lowest human development index, thus explaining the reason for the low infection and vaccination rate and high case fatality rate. Inadequate Covid-19 vaccine information and safety concerns contributed to the low vaccination rate in Ethiopia.
 
 ### Appendices
-[R_CODE]([https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/R_code_quantitative_covid_19.R](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/R_code_quantitative_covid_19.R)
+[R_CODE](https://github.com/olusolaolagunju/Mixed-Method-Research-Analysis/blob/main/R_code_quantitative_covid_19.R)
 
 --- 
 
