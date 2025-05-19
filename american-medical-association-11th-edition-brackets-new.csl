@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<style class="in-text" version="1.0" name-delimiter="&quot; &quot;" et-al-min="3" et-al-use-first="3" et-al-subsequent-min="0" et-al-subsequent-use-first="0" page-range-format="minimal-two" initialize-with-hyphen="false" demote-non-dropping-particle="sort-only" default-locale="en-US" xmlns="http://purl.org/net/xbiblio/csl">
+<style class="in-text" version="1.0" name-delimiter="" et-al-min="3" et-al-use-first="3" et-al-subsequent-min="0" et-al-subsequent-use-first="0" page-range-format="minimal-two" initialize-with-hyphen="false" demote-non-dropping-particle="sort-only" default-locale="en-US" xmlns="http://purl.org/net/xbiblio/csl">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>American Medical Association 11th edition (brackets)-NEW</title>
@@ -28,7 +28,7 @@
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>The American Medical Association style as used in JAMA. Version 11 as per November-2019.</summary>
-    <updated>2025-05-19T18:33:37+00:00</updated>
+    <updated>2025-05-19T18:37:13+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
